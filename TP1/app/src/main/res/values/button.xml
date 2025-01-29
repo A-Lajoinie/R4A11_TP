@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Button">Bouton</string>
+    <string name="Button2">Suivant</string>
+    <string name="Button3">Précédent</string>
 </resources>
